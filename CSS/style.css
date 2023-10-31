@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .half-width {
@@ -36,4 +37,15 @@ section {
 .top-banner {
     background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.why {
+    background-image: url(Images/why.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.work {
+    margin-right: 120px;
+    text-align: justify;
 }
